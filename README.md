@@ -11,6 +11,6 @@
 - :school: I'm the third year student at **FPT University - Ho Chi Minh City Campus**
 - :books: Currently studying **Software Engineering**
 - :sweat_smile: Prefer to be a web developer in the future. :penguin:
-- :monocle_face: I'm interested in coding, writing contents for my youtube channel, and editing videos.
-- :sunglasses: My favorite quote is ***"I may not have gone where I intended to go, but I think I have ended up where I needed to be"*** 
+- :monocle_face: I'm interested in coding and writing contents for my youtube channel.
+- :sunglasses: My favorite quote is ***"Where there is a will, there is a way."*** 
 
