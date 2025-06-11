@@ -4,7 +4,7 @@
 
 ## 👋 About Me
 
-<img src="https://github.com/user-attachments/assets/c9dbeadd-6706-4e8c-a109-948cbc920d9c" width="400" height="250" align="right"/>
+<img src="https://github.com/user-attachments/assets/c9dbeadd-6706-4e8c-a109-948cbc920d9c" width="360" height="220" align="right"/>
 
 **Full Name**: Huynh Hoang Khoi Nguyen
 
