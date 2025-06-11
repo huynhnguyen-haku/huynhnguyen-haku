@@ -6,15 +6,15 @@
 
 <img src="https://github.com/user-attachments/assets/c9dbeadd-6706-4e8c-a109-948cbc920d9c" width="400" height="250" align="right"/>
 
-:credit_card: **Full Name**: Huynh Hoang Khoi Nguyen
+**Full Name**: Huynh Hoang Khoi Nguyen
 
-:mortar_board: **Education**: Graduated from **FPT University - Ho Chi Minh City Campus**  
+**Education**: Graduated from **FPT University - Ho Chi Minh City Campus**  
   - Major: **Software Engineering**  
   - Degree: **Good**
 
-:video_game: **Career Aspiration**: Aspiring **Unity Game Developer**  
+**Career Aspiration**: Aspiring **Unity Game Developer**  
 
-:monocle_face: **Interests**: Crafting innovative mechanics for **Unity Games** and exploring game design  
+**Interests**: Crafting innovative mechanics for **Unity Games** and exploring game design  
 
 ---
 
