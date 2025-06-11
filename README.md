@@ -4,8 +4,7 @@
 
 ## 👋 About Me
 
-<img src="https://c.tenor.com/0MzHwuVYNcEAAAAC/sashimi-sushi.gif" width="400" height="250" align="right"/>
-
+<img src="https://github.com/user-attachments/assets/c9dbeadd-6706-4e8c-a109-948cbc920d9c" width="400" height="250" align="right"/>
  :credit_card: **Full Name**: Huynh Hoang Khoi Nguyen  
  
  :mortar_board: **Education**: Graduated from **FPT University - Ho Chi Minh City Campus**  
