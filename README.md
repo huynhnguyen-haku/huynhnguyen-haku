@@ -10,7 +10,7 @@
 
 **Education**: Graduated from **FPT University - Ho Chi Minh City Campus**  
   - Major: **Software Engineering**  
-  - Degree: **Good**
+  - Grade: **Good**
 
 **Career Aspiration**: Aspiring **Unity Game Developer**  
 
