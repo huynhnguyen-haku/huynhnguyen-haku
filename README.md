@@ -12,9 +12,9 @@
   - Major: **Software Engineering**  
   - Grade: **Good**
 
-**Career Aspiration**: Aspiring **Unity Game Developer**  
+**Career Aspiration**: **Unity Game Developer**  & **Game Tester**
 
-**Interests**: Crafting innovative mechanics for **Unity Games** and exploring game design  
+**Interests**: Crafting innovative mechanics for **Unity Games** and exploring game design.
 
 ---
 
